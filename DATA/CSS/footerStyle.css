@@ -1,0 +1,39 @@
+/* CSS Document */
+footer
+{
+	background: #222;
+	color:white;
+	margin-bottom:0;
+	padding:0;
+	height:30px;
+	border-top-left-radius:75px 5px;
+	border-top-right-radius:75px 5px;
+	position:fixed;
+	bottom:0px;
+	width:100%;
+}
+footer .left
+{
+	margin:0;
+	padding:10px;
+	display:inline-block;
+	width:45%;
+}
+footer div
+{	
+	position:relative;
+	top:-25px;
+	display:inline-block;
+	width:45%;
+	float:right;
+	padding-right:20px;
+}
+footer a, footer a:visited
+{
+	margin:0;
+	padding:10px;
+	color:white;
+	text-align:right;
+	width:100%;
+	text-decoration:none;
+}
